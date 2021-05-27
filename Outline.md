@@ -18,7 +18,7 @@ Work in your group to implement the following user stories:
 
 ## Acceptance Criteria
 
-* It's done when, if the contact link is clicked, the page jumps directly to the contact form.
+* It's done when, if the contact link is clicked, the page jumps directly to the contact form. !!
 
 * It's done when the header contains a navigation bar with three links that display inline, including a contact link. #
 
