@@ -2,12 +2,17 @@
     font-family: "Century Gothic", sans-serif;
 }
 
-p {
-    color: white;
+p, figcaption {
+    color: lightskyblue;
 }
 
 body {
-    background: lightgray;
+    background: white;
+}
+
+h1, h2{
+    padding: 0;
+    margin: 5px;
 }
 
 header{
@@ -17,6 +22,7 @@ header{
     left: 0;
     top: 0;
     width: 100%;
+    height: 50px;
     background-color: lightblue;
     text-align: center;
     color: white;
@@ -31,6 +37,20 @@ header{
 #landing-image{
     text-align: center;
     width: 500px;
+}
+
+input {
+    text-align: center;
+    padding-bottom: 0;
+}
+
+button{
+    color: grey;
+    background-color: white;
+}
+
+button:hover {
+    color: blue;
 }
 
 footer{
