@@ -1,11 +1,46 @@
+* {
+    font-family: "Century Gothic", sans-serif;
+}
+
+p {
+    color: white;
+}
+
+body {
+    background: lightgray;
+}
+
 header{
-    background-color: burlywood;
-}
-
-.image{
     text-align: center;
+    background-color: rgb(222, 148, 135);
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    background-color: lightblue;
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
 }
 
-figure{
+.container{
+    text-align: center;
+    margin: 20px;
+}
+
+#landing-image{
+    text-align: center;
     width: 500px;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(222, 148, 135);
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: lightblue;
+    text-align: center;
+    color: white;
 }
