@@ -27,6 +27,7 @@ header{
     text-align: center;
     color: white;
     margin-bottom: 20px;
+    border-bottom: 3px solid darkblue;
 }
 
 .container{
@@ -63,4 +64,5 @@ footer{
     background-color: lightblue;
     text-align: center;
     color: white;
+    border-top: 3px solid darkblue;
 }
