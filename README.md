@@ -1,0 +1,1 @@
+# A basic welcome page by nick ritchie
